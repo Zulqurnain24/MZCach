@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MZCach_Example' do
+  pod 'MZCach', :path => '../'
+
+  target 'MZCach_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
