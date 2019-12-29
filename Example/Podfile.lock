@@ -1,0 +1,16 @@
+PODS:
+  - MZCach (0.1.0)
+
+DEPENDENCIES:
+  - MZCach (from `../`)
+
+EXTERNAL SOURCES:
+  MZCach:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MZCach: 542a63ac0b59cf405761830e29a1ec4b743dcc6f
+
+PODFILE CHECKSUM: 18ca8c5e76048c47268ac7104ec257166afdb41f
+
+COCOAPODS: 1.8.3

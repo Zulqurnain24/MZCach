@@ -1,0 +1,22 @@
+{
+  "name": "MZCach",
+  "version": "0.1.0",
+  "summary": "A short description of MZCach.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zulqurnain24/MZCach",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zulqurnain24": "mohammad.zulqurnain@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Zulqurnain24/MZCach.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MZCach/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module MZCach {
+  umbrella header "MZCach-umbrella.h"
+
+  export *
+  module * { export * }
+}

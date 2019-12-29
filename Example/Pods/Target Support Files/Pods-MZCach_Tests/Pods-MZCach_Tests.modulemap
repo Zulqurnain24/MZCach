@@ -1,0 +1,6 @@
+framework module Pods_MZCach_Tests {
+  umbrella header "Pods-MZCach_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
